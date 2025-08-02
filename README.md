@@ -8,12 +8,19 @@ This project is a **frontend-based online bus ticket booking application** built
 project-folder/
 │
 ├── index.html # Welcome page with Login/Register
+
 ├── login page.html # User login page
+
 ├── register page.html # New user registration page
+
 ├── bus availability.html # Enter city names and check buses
+
 ├── seat selection.html # Choose bus type and seats
+
 ├── payment.html # Simulated payment form
+
 ├── booking successful.html # Final booking confirmation
+
 └── README.md # This documentation file
 
 ---
