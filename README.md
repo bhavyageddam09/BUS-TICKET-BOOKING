@@ -6,7 +6,7 @@ This project is a **frontend-based online bus ticket booking application** built
 
 ## 📁 Project Files
 project-folder/
-│
+
 ├── index.html # Welcome page with Login/Register
 
 ├── login page.html # User login page
